@@ -27,4 +27,4 @@ Faça uma breve aprensentação sobre você e a sua stack.
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JobsonSantiago_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JobsonSantiago)
