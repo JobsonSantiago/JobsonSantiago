@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Jobson!
+## Olá, meu nome é Jobson!
 
 Cursando O 3° ano do Ensino Médio integrado ao curso técnico de Desenvolvimento de Sistemas na ETEC ZL
 
