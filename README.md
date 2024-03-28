@@ -24,4 +24,4 @@ Cursando o 3° ano do Ensino Médio integrado ao curso técnico de Desenvolvimen
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JobsonSantiago&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonSantiago&layout=pie&theme=radical))](https://github.com/JobsonSantiago/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonSantiago&layout=pie&theme=radical)](https://github.com/JobsonSantiago/github-readme-stats)
