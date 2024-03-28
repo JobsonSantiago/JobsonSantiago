@@ -2,7 +2,7 @@
 
 Cursando o 3° ano do Ensino Médio integrado ao curso técnico de Desenvolvimento de Sistemas na ETEC ZL
 
-🔭 Projetos Interdisciplinares nas matérias de Desenvolvimento de Sistemas e Banco de Dados I e Apresentação de projeto de Sistemas Embarcados na Feira Técnológica da ETEC da Zona Leste 2023
+🔭 Projetos Interdisciplinares nas matérias de Desenvolvimento de Sistemas e Banco de Dados I e Apresentação de projeto de Sistemas Embarcados na Feira Técnológica da ETEC Zona Leste 2023.
 
 💬 Email: jobguisantiago@gmail.com
 
