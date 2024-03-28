@@ -1,6 +1,6 @@
 ## Olá, meu nome é Jobson!
 
-Cursando o 3° ano do Ensino Médio integrado ao curso técnico de Desenvolvimento de Sistemas na ETEC ZL
+Cursando o 3° ano do Ensino Médio integrado ao curso técnico de Desenvolvimento de Sistemas na ETEC ZL.
 
 🔭 Projetos Interdisciplinares nas matérias de Desenvolvimento de Sistemas e Banco de Dados I e Apresentação de projeto de Sistemas Embarcados na Feira Técnológica da ETEC Zona Leste 2023.
 
