@@ -12,7 +12,7 @@ Cursando o 3° ano do Ensino Médio integrado ao curso técnico de Desenvolvimen
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,java,php,laravel,sql,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,java,php,laravel,sqlite,bootstrap" />
     </a>
   </p>
 
