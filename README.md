@@ -24,7 +24,7 @@ Cursando o 3° ano do Ensino Médio integrado ao curso técnico de Desenvolvimen
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=JobsonSantiago&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonSantiago&layout=pie&theme=radical&card_width=320" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobsonSantiago&layout=pie&theme=radical&card_width=720" />
 </a>
 
 
