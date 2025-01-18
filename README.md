@@ -1,8 +1,8 @@
 ## Olá, meu nome é Jobson!
 
-Cursando o 3° ano do Ensino Médio integrado ao curso técnico de Desenvolvimento de Sistemas na ETEC ZL.
+Formado no curso técnico de Desenvolvimento de Sistemas integrado ao Ensino Médio na ETEC Zona Leste.
 
-🔭 Projetos Interdisciplinares nas matérias de Desenvolvimento de Sistemas e Banco de Dados I e Apresentação de projeto de Sistemas Embarcados na Feira Técnológica da ETEC Zona Leste 2023.
+🔭 Projetos Interdisciplinares nas matérias de Desenvolvimento de Sistemas e Banco de Dados I, Apresentação de projeto de Sistemas Embarcados na Feira Técnológica da ETEC Zona Leste 2023 e Confecção e apresentação de Trabalho de Conclusão de Curso em 2024.
 
 💬 Email: jobguisantiago@gmail.com
 
