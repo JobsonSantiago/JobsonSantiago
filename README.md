@@ -2,7 +2,7 @@
 
 Tenho 19 anos e sou formado técnico em Desenvolvimento de Sistemas pela ETEC Zona Leste, período em que tive meu primeiro contato com a área de TI e desenvolvi diversos projetos em diferentes segmentos, incluindo um Trabalho de Conclusão de Curso. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Zona Leste, com o objetivo de ampliar meus conhecimentos e aprimorar minhas habilidades.
 
-🔭 Projetos Interdisciplinares nas matérias de Desenvolvimento de Sistemas e Banco de Dados I, apresentação de projeto de Sistemas Embarcados na Feira Técnológica da ETEC Zona Leste 2023 e confecção e apresentação de Trabalho de Conclusão de Curso na Feira Técnológica da ETEC Zona Leste 2024.
+🔭 Projetos Interdisciplinares nas matérias de Desenvolvimento de Sistemas e Banco de Dados I, apresentação de projeto de Sistemas Embarcados na Feira Tecnológica da ETEC Zona Leste 2023 e confecção e apresentação de Trabalho de Conclusão de Curso na Feira Tecnológica da ETEC Zona Leste 2024.
 
 💬 Email: jobguisantiago@gmail.com
 
