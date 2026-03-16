@@ -31,10 +31,10 @@ Tenho 19 anos e sou formado técnico em Desenvolvimento de Sistemas pela ETEC Zo
 <p align="center">
 <br>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JobsonSantiago&theme=github_dark&show_icons=true&hide_border=false&count_private=true" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=JobsonSantiago&theme=github_dark&show_icons=true&hide_border=false&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JobsonSantiago&layout=compact&show_icons=true&theme=github_dark&langs_count=8&card_width=320" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JobsonSantiago&layout=compact&show_icons=true&theme=github_dark&langs_count=8" />
 </a>
 </p>
 
